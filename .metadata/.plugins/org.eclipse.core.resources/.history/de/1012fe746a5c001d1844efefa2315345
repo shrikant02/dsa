@@ -1,0 +1,14 @@
+package recursion;
+
+import java.util.Date;
+
+public class Example {
+	
+	public static void main(String[] args) {
+		int arr[] = new int[5];
+		
+		Date date = new Date();
+		System.out.print(date.getDate());
+	}
+
+}
